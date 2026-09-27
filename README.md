@@ -67,4 +67,4 @@ uploaded and no paths need editing.
 
 ## Video
 
-Walkthrough (unlisted YouTube): [link]
+Walkthrough (unlisted YouTube): https://youtu.be/Gs2coDPZy4Q 
